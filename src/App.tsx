@@ -41,8 +41,7 @@ function App() {
             </h1>
           </div>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            <h1>Compare two text documents and get a precise similarity score using advanced 
-            TF-IDF vectorization and cosine similarity algorithms.</h1>
+            <h1>Compare two text documents and get a precise similarity score using advanced algorithms.</h1>
           </p>
         </div>
 
