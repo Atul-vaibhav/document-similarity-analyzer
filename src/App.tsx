@@ -41,7 +41,8 @@ function App() {
             </h1>
           </div>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            <h1>Compare two text documents and get a precise similarity score using advanced algorithms.</h1>
+            <h1 className="text-3xl font-bold text-center w-full py-5 rounded-lg bg-gradient-to-r from-[#f7faff] to-[#eef4ff] text-[#1a2b5b]
+  ">Compare two text documents and get a precise similarity score using advanced algorithms.</h1>
           </p>
         </div>
 
