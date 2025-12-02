@@ -143,6 +143,7 @@ function App() {
           </div>
         </div>
       </div>
+      <contactButton />
     </div>
   );
 }
