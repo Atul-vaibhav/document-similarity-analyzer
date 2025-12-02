@@ -20,13 +20,13 @@ Built with **React + TypeScript + Vite**, the tool provides fast, accurate simil
 
 ### ⚙️ **How It Works**
 
-1. **Text Preprocessing**
+1. **Text Preprocessing: **
    Removes punctuation, extra spaces, and normalizes text.
 
-2. **TF-IDF Vectorization**
+2. **TF-IDF Vectorization: **
    Converts documents into numerical representations based on word importance.
 
-3. **Cosine Similarity**
+3. **Cosine Similarity: **
    Measures similarity by comparing the angle between TF-IDF vectors.
 
 ### 📊 **Similarity Score Guide**
