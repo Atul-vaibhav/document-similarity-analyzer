@@ -150,7 +150,7 @@ If you have suggestions or want to reach out:
 
 📧 **Contact Form:**
 Click the **Contact Me** button on the website
-🔗 [https://document-similarity-analyzer.vercel.app/](https://document-similarity-analyzer.vercel.app/)
+🔗
 
 ---
 
@@ -159,5 +159,3 @@ Click the **Contact Me** button on the website
 If you found this project helpful, consider giving it a **⭐ star** on GitHub — it motivates future improvements!
 
 ---
-
-If you want a **shield-style badge section**, **animated preview GIF**, or **license section**, I can generate those too.
